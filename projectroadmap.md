@@ -10,3 +10,10 @@ DONE: Create a file entitled “projectroadmap.md” in the main project code re
 
 DONE: Ran the source code. 
 
+DONE: Work on the code to fix errors and post the code on GitHub that actually runs.
+
+DONE: Changed the title to Patient Management System in the index.html file
+
+DONE: Added patient check-in, insurance and billing to the dashboard
+
+DONE: Write a code that retrieves patient information and allows to update patient details
