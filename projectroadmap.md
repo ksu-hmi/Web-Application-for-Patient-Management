@@ -14,6 +14,8 @@ DONE: Work on the code to fix errors and post the code on GitHub that actually r
 
 DONE: Changed the title to Patient Management System in the index.html file
 
-DONE: Added patient check-in, insurance and billing to the dashboard
+DONE: Added patient check-in in the Dashboard. (Neelam Nosheen)
+
+insurance and billing to the dashboard
 
 DONE: Write a code that retrieves patient information and allows to update patient details
