@@ -12,10 +12,10 @@ DONE: Ran the source code.
 
 DONE: Work on the code to fix errors and post the code on GitHub that actually runs.
 
-DONE: Changed the title to Patient Management System in the index.html file
+DONE: Changed the title to Patient Management System in the index.html file (Reddy Bhavya Gudi)
 
 DONE: Added patient check-in in the Dashboard. (Neelam Nosheen)
 
 Done: Insurance and billing added to the dashboard. (Humera Asfandiyar)
 
-DONE: Write a code that retrieves patient information and allows to update patient details
+DONE: Write a code that retrieves patient information and allows to update patient details (Neelam Nosheen, Reddy Bhavya Gudi, Humera Asfandiyar)
