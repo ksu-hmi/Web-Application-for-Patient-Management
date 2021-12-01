@@ -1,2 +1,2 @@
 # Web-Application-for-Patient-Management
-This repository allows patients to check-in electronically via app before the doctor sees the patient.Patient's demographics can be verified electronically and the patient will be able to check-in online. When the patient checks-in, he/she will be marked arrived automatically and it will be visible to the front staff which will save time for both patient and the office.
+This repository allows the front office to mark the patients checked in "Yes/No" when their information is verified and they are ready to be seen by the provider. It also allows to add or delete patients. This application verifies patient's insurance and billing information. It is also used to schedule appointments and add or delete provider's information.
