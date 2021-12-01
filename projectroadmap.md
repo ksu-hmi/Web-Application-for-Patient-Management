@@ -16,6 +16,12 @@ DONE: Changed the title to Patient Management System in the index.html file (Red
 
 DONE: Added patient check-in in the Dashboard. (Neelam Nosheen)
 
-Done: Insurance and billing added to the dashboard. (Humera Asfandiyar)
+DONE: Insurance and billing added to the dashboard. (Humera Asfandiyar)
 
 DONE: Write a code that retrieves patient information and allows to update patient details (Neelam Nosheen, Reddy Bhavya Gudi, Humera Asfandiyar)
+
+DONE: We added "Yes/No" to patient check-in. It allows to mark "Yes" if the patient is verified and checked-in or "No" if patient is not verified.(Neelam Nosheen)
+
+DONE: Changed the logo for tabs on the dashboard. (Reddy Bhavya Gudi)
+
+DONE: Ran the code successfully and checked the functionality of the tabs. (Humera Asfandiyar)
